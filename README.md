@@ -1,5 +1,4 @@
 ## Hi there, I'M Chisom Paul 👋
-## Hi there, I'm Chisom Paul 👋
 
 I'm an analytical builder focused on relational databases, SQL, and Bash scripting. I enjoy structuring clean data systems, automating workflows with shell scripts, and turning raw information into practical insights.
 
